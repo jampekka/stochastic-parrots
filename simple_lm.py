@@ -2,11 +2,20 @@ import random
 from collections import defaultdict
 import itertools
 
-def tokenize(text):
-    return text.split()
+class WhitespaceTokenizer:
+    def tokenize(self, text):
+        return text.split()
+    
+    def untokenize(self, tokens):
+        return ' '.join(tokens)
 
-def untokenize(tokens):
-    return ' '.join(tokens)
+class SpaceTokenizer:
+    def tokenize(self, text):
+        return text.split(' ')
+    
+    def untokenize(self, tokens):
+        return ' '.join(tokens)
+
 
 
 def get_ngrams(tokens, n):
@@ -40,9 +49,11 @@ def main():
     input_file = "sample_data/blowin_in_the_wind_verses.txt"
     context_length = 2
     max_tokens = 100
+    #tokenizer = WhitespaceTokenizer()
+    tokenizer = SpaceTokenizer()
 
     text = open(input_file).read()
-    tokens = tokenize(text)
+    tokens = tokenizer.tokenize(text)
 
     initial_context = tokens[:context_length]
 
@@ -50,7 +61,9 @@ def main():
 
     generator = generate_tokens(freq_table, initial_context)
     output_tokens = itertools.islice(generator, max_tokens)
-    print(untokenize(output_tokens))
+    output_text = tokenizer.untokenize(output_tokens)
+
+    print(output_text)
 
 if __name__ == "__main__":
     main()
