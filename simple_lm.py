@@ -1,5 +1,6 @@
 import random
 from collections import defaultdict
+import itertools
 
 def tokenize(text):
     return text.split()
@@ -20,16 +21,16 @@ def get_next_token_table(tokens, context_length):
     return freq_table
 
 
-def generate_tokens(freq_table, context_length, initial_context):
-    output = list(initial_context)
-    yield from output
+def generate_tokens(freq_table, initial_context):
+    context = tuple(initial_context)
+    yield from context
+
     while True:
-        context = output[-context_length:]
-        candidates = freq_table[tuple(context)]
+        candidates = freq_table[context]
         if not candidates:
             return
         next_word = random.choice(candidates)
-        output.append(next_word)
+        context = (*context[1:], next_word)     
 
         yield next_word
 
@@ -42,14 +43,14 @@ def main():
 
     text = open(input_file).read()
     tokens = tokenize(text)
-    freq_table = get_next_token_table(tokens, context_length)
-    
-    output = []
-    for i, word in enumerate(generate_tokens(freq_table, context_length, ["Yes,", "and"])):
-        if i >= 100: break
-        output.append(word)
 
-    print(untokenize(output))
+    initial_context = tokens[:context_length]
+
+    freq_table = get_next_token_table(tokens, context_length)
+
+    generator = generate_tokens(freq_table, initial_context)
+    output_tokens = itertools.islice(generator, max_tokens)
+    print(untokenize(output_tokens))
 
 if __name__ == "__main__":
     main()
