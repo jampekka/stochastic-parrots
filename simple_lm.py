@@ -1,16 +1,12 @@
 import random
 from collections import defaultdict
 
-text = open("sample_data/blowin_in_the_wind_verses.txt")
-text = text.read()
-
 def tokenize(text):
     return text.split()
 
 def untokenize(tokens):
     return ' '.join(tokens)
 
-tokens = tokenize(text)
 
 def get_ngrams(tokens, n):
     for i in range(len(tokens) - n + 1):
@@ -23,7 +19,6 @@ def get_next_token_table(tokens, context_length):
         freq_table[tuple(context)].append(next_word)
     return freq_table
 
-freq_table = get_next_token_table(tokens, 2)
 
 def generate_tokens(freq_table, context_length, initial_context):
     output = list(initial_context)
@@ -39,9 +34,22 @@ def generate_tokens(freq_table, context_length, initial_context):
         yield next_word
 
 
-output = []
-for i, word in enumerate(generate_tokens(freq_table, 2, ["Yes,", "and"])):
-    if i >= 100: break
-    output.append(word)
 
-print(untokenize(output))
+def main():
+    input_file = "sample_data/blowin_in_the_wind_verses.txt"
+    context_length = 2
+    max_tokens = 100
+
+    text = open(input_file).read()
+    tokens = tokenize(text)
+    freq_table = get_next_token_table(tokens, context_length)
+    
+    output = []
+    for i, word in enumerate(generate_tokens(freq_table, context_length, ["Yes,", "and"])):
+        if i >= 100: break
+        output.append(word)
+
+    print(untokenize(output))
+
+if __name__ == "__main__":
+    main()
