@@ -33,19 +33,26 @@ for _, d in data.items():
     rants.append(d)
 
 bodies = [b for b in rants]
-
+initial_context = ["Am","I", "stupid?"]
+generator = generate_tokens(freq_table, initial_context)
+text = tokenizer.untokenize(generator)
+print(text)
+"""
 for i in range(20):
     print("--------- START RANT ---------\n")
 
-    start = random.choice(bodies)
+    #start = random.choice(bodies)
     initial_context = start['tokens'][:context_length]
-
-    generator = generate_tokens(freq_table, initial_context)
-    text = tokenizer.untokenize(generator)
-    print(text)
+    print(initial_context)
+    
+    #generator = generate_tokens(freq_table, initial_context)
+    #text = tokenizer.untokenize(generator)
+    #print(text)
 
     print("\n--------- END ---------\n")
     """
+"""
+
     for t in bodies:
         if text == t["body"]:
             print("Duplicate!")
