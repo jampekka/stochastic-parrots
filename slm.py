@@ -35,6 +35,13 @@ class CharacterTokenizer:
     def decode(self, tokens):
         return ''.join(tokens)
 
+class SpaceTokenizer:
+    def __call__(self, text):
+        return text.split(' ')
+    
+    def decode(self, tokens):
+        return ' '.join(tokens)
+
 class NullEmbedder:
     def __call__(self, tokens): return tokens
     def decode(self, embeddings): return embeddings
