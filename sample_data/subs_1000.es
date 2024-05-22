@@ -1,669 +1,669 @@
 La Solitaria
-Te encanta el curry, ¿no?
-Te pondré más.
-¡Eh!
-¿Está bueno?
+Te encanta el curry, Â¿no?
+Te pondrÃ© mÃ¡s.
+Â¡Eh!
+Â¿EstÃ¡ bueno?
 Eh, fea.
 Miradla.
 - Puta loca.
-- ¡Te he preguntado!
-¡Así estás mejor!
-- ¡Estás muy guapa!
-- ¡Mucho mejor!
+- Â¡Te he preguntado!
+Â¡AsÃ­ estÃ¡s mejor!
+- Â¡EstÃ¡s muy guapa!
+- Â¡Mucho mejor!
 Le queda bien.
 - Eh.
 - Mierda.
-¿Qué coño haces?
+Â¿QuÃ© coÃ±o haces?
 Quita de mi vista, zorra.
-¡Dejad de meteros con Ha-jung!
-¿Qué dices?
-Piérdete.
-¿Qué?
-¡Déjala, Soo-na!
+Â¡Dejad de meteros con Ha-jung!
+Â¿QuÃ© dices?
+PiÃ©rdete.
+Â¿QuÃ©?
+Â¡DÃ©jala, Soo-na!
 Estoy bien.
 Da igual.
-¿Eres tonta?
-¿Por qué dejas que esas perdedoras te acosen?
-¿Esas qué?
-¡Eh!
-Métete en tus asuntos y vete.
-¿Qué miras, zorra?
-¿Sois amantes o qué?
-¿No lo sabias?
-¡Callaos!
-¡Ya lo pagareis!
+Â¿Eres tonta?
+Â¿Por quÃ© dejas que esas perdedoras te acosen?
+Â¿Esas quÃ©?
+Â¡Eh!
+MÃ©tete en tus asuntos y vete.
+Â¿QuÃ© miras, zorra?
+Â¿Sois amantes o quÃ©?
+Â¿No lo sabias?
+Â¡Callaos!
+Â¡Ya lo pagareis!
 - Para, por favor.
-- ¡Eh!
-¡Eh!
-¡La delegada se cree que puede esconderse detrás del profesor!
-¡Lo está pidiendo a gritos!
+- Â¡Eh!
+Â¡Eh!
+Â¡La delegada se cree que puede esconderse detrÃ¡s del profesor!
+Â¡Lo estÃ¡ pidiendo a gritos!
 No dejes que te molesten.
-¿No estás enfadada?
-¡Me chivaré de ellas!
-No, no quiero que te molesten a ti también.
+Â¿No estÃ¡s enfadada?
+Â¡Me chivarÃ© de ellas!
+No, no quiero que te molesten a ti tambiÃ©n.
 He conocido a una amiga por Internet hace poco.
-Su padre lleva abusando de ella más de un año.
-¿Qué?
-Quería matarle, pero no pudo.
-Sentía pena de su madre por estar con ese cabrón abusador.
-Dice que se encierra en su habitación y maldice todos los días a ese desgraciado y a su verdadero padre.
-Después se siente mejor.
+Su padre lleva abusando de ella mÃ¡s de un aÃ±o.
+Â¿QuÃ©?
+QuerÃ­a matarle, pero no pudo.
+SentÃ­a pena de su madre por estar con ese cabrÃ³n abusador.
+Dice que se encierra en su habitaciÃ³n y maldice todos los dÃ­as a ese desgraciado y a su verdadero padre.
+DespuÃ©s se siente mejor.
 Muy feliz.
-Tú no...
+TÃº no...
 Sabes que no puedo.
 No tengo valor.
 Siento envidia de Mi-jung. Eso es todo.
-¿Envidia de qué?
-¿Por qué?
+Â¿Envidia de quÃ©?
+Â¿Por quÃ©?
 Espera.
-¡Tachán!
-¿Los has bordado tú?
-¡Genial!
-¿Cuánto has tardado?
-¿Una semana?
-¿Dos semanas?
+Â¡TachÃ¡n!
+Â¿Los has bordado tÃº?
+Â¡Genial!
+Â¿CuÃ¡nto has tardado?
+Â¿Una semana?
+Â¿Dos semanas?
 Es precioso.
-Gracias por estar siempre ahí, Soo-na.
-Lo tendré siempre.
-Sí.
-Sí.
+Gracias por estar siempre ahÃ­, Soo-na.
+Lo tendrÃ© siempre.
+SÃ­.
+SÃ­.
 Ya lo he averiguado.
-La construcción estará terminada a tiempo.
-No se preocupe, señor Ahn.
-No volverá a suceder.
+La construcciÃ³n estarÃ¡ terminada a tiempo.
+No se preocupe, seÃ±or Ahn.
+No volverÃ¡ a suceder.
 Exacto.
 Ya veo.
 Gracias.
-Sí.
-Me pondré en contacto.
-¡Sorpresa!
-¡Soo-na!
-¡Me has asustado!
-Hola, tío cobarde.
-¿Estás enfadado?
+SÃ­.
+Me pondrÃ© en contacto.
+Â¡Sorpresa!
+Â¡Soo-na!
+Â¡Me has asustado!
+Hola, tÃ­o cobarde.
+Â¿EstÃ¡s enfadado?
 No te enfades, por favor.
-Maldita niña.
-¿Me has seguido hasta aquí para asustarme?
+Maldita niÃ±a.
+Â¿Me has seguido hasta aquÃ­ para asustarme?
 No, llevo esperando 20 minutos.
 Ya, claro.
 Hablo en serio.
-¿De verdad?
-Sí.
-Vamos, tío Se-jin.
-¿Quién te ha dado eso?
+Â¿De verdad?
+SÃ­.
+Vamos, tÃ­o Se-jin.
+Â¿QuiÃ©n te ha dado eso?
 Ha-jung.
-Yoon-mi vendrá esta noche.
-¿Por qué no te gusta?
+Yoon-mi vendrÃ¡ esta noche.
+Â¿Por quÃ© no te gusta?
 Se cree tan buena, inteligente...
 Pero le gustas mucho, nena.
-¡Pues ella a mí no!
+Â¡Pues ella a mÃ­ no!
 A este ritmo voy a morir soltero.
-¿Y mi profesora particular?
+Â¿Y mi profesora particular?
 Creo que le gustas.
-Olvídalo, nena.
-¿Por qué no comes, guapa?
+OlvÃ­dalo, nena.
+Â¿Por quÃ© no comes, guapa?
 He merendado con Ha-jung.
 Pero tienes que cenar.
 Dame la cuchara.
 Toma.
 Vosotros dos.
-¿Cuándo vais a decidiros?
+Â¿CuÃ¡ndo vais a decidiros?
 He hecho los preparativos.
-La fiesta de compromiso será la segunda semana de este mes.
+La fiesta de compromiso serÃ¡ la segunda semana de este mes.
 He perdido el apetito.
-¡Soo-na!
-¡No has terminado!
+Â¡Soo-na!
+Â¡No has terminado!
 Soo-na.
-Te he traído tu tarta favorita de té verde.
-Dásela al perro.
+Te he traÃ­do tu tarta favorita de tÃ© verde.
+DÃ¡sela al perro.
 Maldita mocosa.
-¡Soo-na!
-¡Vuelve aquí!
-¡Qué falta de respeto!
+Â¡Soo-na!
+Â¡Vuelve aquÃ­!
+Â¡QuÃ© falta de respeto!
 No importa.
-¡No te haré daño!
-¿Por qué tiemblas?
+Â¡No te harÃ© daÃ±o!
+Â¿Por quÃ© tiemblas?
 Lo siento.
 Es todo lo que tengo.
-¡Joder!
-¿Crees que pido limosna?
-¿Estás loca?
-De verdad no tengo más.
-Olvídalo.
-Pero haz algo por mí.
-- ¿Puedo ayudarte?
-- ¿Eh?
+Â¡Joder!
+Â¿Crees que pido limosna?
+Â¿EstÃ¡s loca?
+De verdad no tengo mÃ¡s.
+OlvÃ­dalo.
+Pero haz algo por mÃ­.
+- Â¿Puedo ayudarte?
+- Â¿Eh?
 Ah, no.
-Ayúdame Soo-na. Te necesito.
-"¡Deja de molestarme!"
-¡Eh!
-¡Alto!
-¿Dónde está?
-Esta vez la cogeré.
-- ¡Señora!
-- ¡Ven aquí!
-¡Lo siento, señora!
-¿Eres la zorra que me ha estado robado?
-¡Por favor!
-¡No lo haré más!
-¡Te he pillado con las manos en la masa!
-¡Maldita zorra!
-¡Levanta!
-¡Levanta!
-¡Desgraciada!
-¡Desgraciada!
-¡Ladrona!
-¡Me robas todos los días!
-¿Cuánto me has robado?
-¿Cómo has podido?
-¡Ladrona!
-¡Paga lo que me has robado!
-¡Ladrona!
-La orquesta ha estado increíble.
-Te llevaré a una mejor la semana que viene.
-Me encanta salir contigo, tío Se-jin.
+AyÃºdame Soo-na. Te necesito.
+"Â¡Deja de molestarme!"
+Â¡Eh!
+Â¡Alto!
+Â¿DÃ³nde estÃ¡?
+Esta vez la cogerÃ©.
+- Â¡SeÃ±ora!
+- Â¡Ven aquÃ­!
+Â¡Lo siento, seÃ±ora!
+Â¿Eres la zorra que me ha estado robado?
+Â¡Por favor!
+Â¡No lo harÃ© mÃ¡s!
+Â¡Te he pillado con las manos en la masa!
+Â¡Maldita zorra!
+Â¡Levanta!
+Â¡Levanta!
+Â¡Desgraciada!
+Â¡Desgraciada!
+Â¡Ladrona!
+Â¡Me robas todos los dÃ­as!
+Â¿CuÃ¡nto me has robado?
+Â¿CÃ³mo has podido?
+Â¡Ladrona!
+Â¡Paga lo que me has robado!
+Â¡Ladrona!
+La orquesta ha estado increÃ­ble.
+Te llevarÃ© a una mejor la semana que viene.
+Me encanta salir contigo, tÃ­o Se-jin.
 Y a mi contigo, princesa.
-¿Por qué no ha venido Yoon-mi?
+Â¿Por quÃ© no ha venido Yoon-mi?
 Estaba ocupada.
 Gracias.
 Conduce con cuidado.
-¿No vienes?
-Tengo una reunión.
-¡Vuelve pronto y no bebas!
+Â¿No vienes?
+Tengo una reuniÃ³n.
+Â¡Vuelve pronto y no bebas!
 Nos vemos.
 Vamos.
-¿Soo-na?
-¿No es tuyo esto?
+Â¿Soo-na?
+Â¿No es tuyo esto?
 Estaba en la mesa de la profesora.
 Lo he buscado toda la noche.
 Gracias.
-¡Atención!
-¡Inclinaos!
-Buenos días, señorita Lee.
-Buenos días.
-Sed buenas, escuchad a los profesores y disfrutad del día.
+Â¡AtenciÃ³n!
+Â¡Inclinaos!
+Buenos dÃ­as, seÃ±orita Lee.
+Buenos dÃ­as.
+Sed buenas, escuchad a los profesores y disfrutad del dÃ­a.
 "Lleva sin salir y sin hablar desde ayer"
 No se preocupe.
 Voy a intentarlo yo.
-¿Ha-jung?
+Â¿Ha-jung?
 Soy Soo-na.
 Abre.
-¿Tienes hambre?
+Â¿Tienes hambre?
 Vamos a comer.
-¿Por qué no respondes a mis llamadas?
+Â¿Por quÃ© no respondes a mis llamadas?
 Estaba preocupada.
-¡Vete!
+Â¡Vete!
 No te necesito.
-¿Qué pasa, Ha-jung?
+Â¿QuÃ© pasa, Ha-jung?
 Soy Soo-na.
-¡Las mataré a todas!
-Dice que está de mal humor.
-Se le pasará.
+Â¡Las matarÃ© a todas!
+Dice que estÃ¡ de mal humor.
+Se le pasarÃ¡.
 No se preocupe.
-Tiene visita, señor.
-¿De verdad?
-¿Quién?
-¿Quién...?
-¡Song-yi!
+Tiene visita, seÃ±or.
+Â¿De verdad?
+Â¿QuiÃ©n?
+Â¿QuiÃ©n...?
+Â¡Song-yi!
 Cerrando puertas.
-Aféitate, tío Se-jin.
+AfÃ©itate, tÃ­o Se-jin.
 Me haces cosquillas.
 "Solitarios en aislamiento"
 Los Hikikomoris son solitarios que deciden vivir aislados.
 No se adaptan a la sociedad y se confinan en sus casas.
-En estos casos se aprecian síntomas de depresión, retrogradación y comportamientos violentos.
-Los casos varían según el paciente.
-Las causas de la enfermedad también son diversas.
-Contando los no-denunciados hay aproximadamente 2 millones de japoneses con estos síntomas.
-Y el número va en aumento.
-En Corea no es fácil detectarlos y no tenemos tratamientos.
-¿Qué?
-¿Por qué lo has hecho?
-¿Hacer qué?
-¿Forzaste a Ha-jung a robar?
-Discúlpate con ella y tráela de vuelta o llamaré a tu padre.
-¿Por qué le metes en esto?
-Será mejor que Ha-jung esté aquí mañana.
+En estos casos se aprecian sÃ­ntomas de depresiÃ³n, retrogradaciÃ³n y comportamientos violentos.
+Los casos varÃ­an segÃºn el paciente.
+Las causas de la enfermedad tambiÃ©n son diversas.
+Contando los no-denunciados hay aproximadamente 2 millones de japoneses con estos sÃ­ntomas.
+Y el nÃºmero va en aumento.
+En Corea no es fÃ¡cil detectarlos y no tenemos tratamientos.
+Â¿QuÃ©?
+Â¿Por quÃ© lo has hecho?
+Â¿Hacer quÃ©?
+Â¿Forzaste a Ha-jung a robar?
+DiscÃºlpate con ella y trÃ¡ela de vuelta o llamarÃ© a tu padre.
+Â¿Por quÃ© le metes en esto?
+SerÃ¡ mejor que Ha-jung estÃ© aquÃ­ maÃ±ana.
 Mierda.
 Puta.
-¿Pasada la vía a la izquierda?
-¿Está en casa?
-Danos un día hermoso y ayúdanos a amarnos como a ti, señor.
+Â¿Pasada la vÃ­a a la izquierda?
+Â¿EstÃ¡ en casa?
+Danos un dÃ­a hermoso y ayÃºdanos a amarnos como a ti, seÃ±or.
 Mira este sitio.
-Ya veo porqué has aparecido.
-Cómprate un apartamento.
+Ya veo porquÃ© has aparecido.
+CÃ³mprate un apartamento.
 Tan lejos como puedas.
-Cógelo, puta.
-¡No te atrevas a acercarte a nosotros nunca más!
-¿Cómo te atreves a tratarme así?
-¿Pero qué...?
-¡Vuelve a aparecer y te prometo que te encierro!
-¡Eso no sucederá!
-¿Qué?
-No habrás visto a Soo-na, ¿no?
-¿Te has encontrado con ella?
-¡Respóndete tú misma!
-¿Cómo te atreves?
-¡Desgraciada!
-¿Vas a arruinar también la vida de nuestra querida Soo-na?
-¡Puta!
-¿Qué has hecho?
-¿A quién intentas matar?
-¡Puta!
+CÃ³gelo, puta.
+Â¡No te atrevas a acercarte a nosotros nunca mÃ¡s!
+Â¿CÃ³mo te atreves a tratarme asÃ­?
+Â¿Pero quÃ©...?
+Â¡Vuelve a aparecer y te prometo que te encierro!
+Â¡Eso no sucederÃ¡!
+Â¿QuÃ©?
+No habrÃ¡s visto a Soo-na, Â¿no?
+Â¿Te has encontrado con ella?
+Â¡RespÃ³ndete tÃº misma!
+Â¿CÃ³mo te atreves?
+Â¡Desgraciada!
+Â¿Vas a arruinar tambiÃ©n la vida de nuestra querida Soo-na?
+Â¡Puta!
+Â¿QuÃ© has hecho?
+Â¿A quiÃ©n intentas matar?
+Â¡Puta!
 Levanta.
-¡Levanta!
-¡Sobre mi tumba!
-¡Desgraciada!
+Â¡Levanta!
+Â¡Sobre mi tumba!
+Â¡Desgraciada!
 Abre, joder.
 Lo siento mucho.
-¿Vale?
-¡Escucha y ve a clase mañana!
-¿Entiendes?
+Â¿Vale?
+Â¡Escucha y ve a clase maÃ±ana!
+Â¿Entiendes?
 Tu secretaria me lo ha contado.
-Pero mamá...
-¿Has...?
-Sí, fui a verla.
+Pero mamÃ¡...
+Â¿Has...?
+SÃ­, fui a verla.
 Le di dinero y le dije que se esfumara.
-Esa puta no volverá a aparecer.
-¿Qué?
+Esa puta no volverÃ¡ a aparecer.
+Â¿QuÃ©?
 He hecho lo correcto.
-¿Por qué no me consultaste?
-¿Consultarte?
-- ¿Tengo que consultarte sobre Song-yi?
+Â¿Por quÃ© no me consultaste?
+Â¿Consultarte?
+- Â¿Tengo que consultarte sobre Song-yi?
 - Hola, Soo-na.
-¿Qué haces ahí?
+Â¿QuÃ© haces ahÃ­?
 Ha-jung.
-¿Qué haces?
-¿Intentas asustarme?
+Â¿QuÃ© haces?
+Â¿Intentas asustarme?
 Ya vale.
-¿Por qué has venido?
-¿Qué?
+Â¿Por quÃ© has venido?
+Â¿QuÃ©?
 Porque la profe...
 Para disculparme.
-¿De verdad?
-¿Esa es la única forma?
+Â¿De verdad?
+Â¿Esa es la Ãºnica forma?
 Joder.
-¿A quién le hablas?
+Â¿A quiÃ©n le hablas?
 A mi amiga.
-Es muy simpática.
-¿Qué?
-¿No la ves?
-Está allí.
+Es muy simpÃ¡tica.
+Â¿QuÃ©?
+Â¿No la ves?
+EstÃ¡ allÃ­.
 Te maldigo para siempre.
-¿Cómo vamos a ir con ella después de lo que ha pasado?
-Está maldita.
-Sí, miradla.
+Â¿CÃ³mo vamos a ir con ella despuÃ©s de lo que ha pasado?
+EstÃ¡ maldita.
+SÃ­, miradla.
 Primer mensaje.
 Soo-na, soy yo.
-¿Estás bien?
-¿Cenamos juntos después de clase?
-Llámame.
+Â¿EstÃ¡s bien?
+Â¿Cenamos juntos despuÃ©s de clase?
+LlÃ¡mame.
 Segundo mensaje.
 Soo-na, soy yo, Ha-jung.
 Lo siento.
-No quería molestarte.
-No debí pedirte que me ayudaras tanto.
+No querÃ­a molestarte.
+No debÃ­ pedirte que me ayudaras tanto.
 Tengo mucho miedo.
 Me da miedo estar sola.
-Ojalá estuvieras aquí.
-Ayúdame, Soo-na.
-¡Por favor!
+OjalÃ¡ estuvieras aquÃ­.
+AyÃºdame, Soo-na.
+Â¡Por favor!
 Abre, Soon-na.
-Soy tu tío.
-- ¿Tío?
-- ¿Soo-na?
-Sí, claro.
+Soy tu tÃ­o.
+- Â¿TÃ­o?
+- Â¿Soo-na?
+SÃ­, claro.
 Soo-na.
-¿De qué hablas?
-¿Soo-na?
-¿Soo-na?
-Estás bien, ¿no?
-Vale, descansa y hablamos mañana.
-¿Cómo está?
+Â¿De quÃ© hablas?
+Â¿Soo-na?
+Â¿Soo-na?
+EstÃ¡s bien, Â¿no?
+Vale, descansa y hablamos maÃ±ana.
+Â¿CÃ³mo estÃ¡?
 No quiere abrir.
 Y si Song-yi vino...
 - ...a verla y...
 - No, debe ser por lo de Ha-jung.
-Se le pasará.
-¿A dónde vas?
-Tengo una reunión.
-¿Ahora qué?
-No sé quién miente.
-No sé nada.
-Ojalá estuvieras aquí.
-Te lo contaría todo.
-"HIKI: ¡hola!"
-LO SIENTO, HA-JUNG: ¿quién eres?
+Se le pasarÃ¡.
+Â¿A dÃ³nde vas?
+Tengo una reuniÃ³n.
+Â¿Ahora quÃ©?
+No sÃ© quiÃ©n miente.
+No sÃ© nada.
+OjalÃ¡ estuvieras aquÃ­.
+Te lo contarÃ­a todo.
+"HIKI: Â¡hola!"
+LO SIENTO, HA-JUNG: Â¿quiÃ©n eres?
 HIKI:
 Una amiga de Ha-jung.
 LO SIENTO, HA-JUNG:
 Ah.
 HIKI:
-Ha-jung dice que aún eres su mejor amiga.
+Ha-jung dice que aÃºn eres su mejor amiga.
 Por favor, no bromees con la muerte de mi mejor amiga.
-HIKI: ¿Qué?
+HIKI: Â¿QuÃ©?
 Pero si acabo de chatear con ella.
 Dice que va a verte, Soo-na.
 H.J:
 Te echo de menos, Soo-na.
-¿Podemos vernos?
-¡Moong-chi!
-¿Dónde está ese maldito perro?
-¿Por qué llueve tanto?
-¡Moong-chi!
-¡Moong-chi!
-¡Moong-chi!
-¡Moong-chi!
-¿Cuándo ha vuelto?
-Tengo que llamar y decírselo al jefe.
-No estás sola.
-Yo cuidaré de ti.
-Mantén tu promesa.
-¿Soo-na?
+Â¿Podemos vernos?
+Â¡Moong-chi!
+Â¿DÃ³nde estÃ¡ ese maldito perro?
+Â¿Por quÃ© llueve tanto?
+Â¡Moong-chi!
+Â¡Moong-chi!
+Â¡Moong-chi!
+Â¡Moong-chi!
+Â¿CuÃ¡ndo ha vuelto?
+Tengo que llamar y decÃ­rselo al jefe.
+No estÃ¡s sola.
+Yo cuidarÃ© de ti.
+MantÃ©n tu promesa.
+Â¿Soo-na?
 Soy yo.
 Abre la puerta.
-¡Soo-na!
+Â¡Soo-na!
 Vamos, hablemos.
 Abre la puerta, Soo-na.
-- ¿Mamá?
-¿Dónde estás?
+- Â¿MamÃ¡?
+Â¿DÃ³nde estÃ¡s?
 - Ah.
 Estoy arriba.
-Joo-young está mucho mejor.
-Parece que se recuperará pronto.
+Joo-young estÃ¡ mucho mejor.
+Parece que se recuperarÃ¡ pronto.
 Sigamos con el tratamiento.
-¿Qué pasa, doctora?
-¡Joo-young!
-¡Joo-young!
-¡Joo-young!
-¡No, por favor!
-¡Joo-young, por favor!
-¡Joo-young!
-Soo-na muestra síntomas de Hikikomori.
-¿Ha pasado algo además de la muerte de Ha-jung?
+Â¿QuÃ© pasa, doctora?
+Â¡Joo-young!
+Â¡Joo-young!
+Â¡Joo-young!
+Â¡No, por favor!
+Â¡Joo-young, por favor!
+Â¡Joo-young!
+Soo-na muestra sÃ­ntomas de Hikikomori.
+Â¿Ha pasado algo ademÃ¡s de la muerte de Ha-jung?
 Por supuesto que no.
 Decidme la verdad.
 Soy casi de la familia.
-¿Por qué iba a mentirte?
+Â¿Por quÃ© iba a mentirte?
 Esa pobre chica...
-Después de la muerte de sus padres en accidente de coche Se-jin y yo la hemos criado.
-Ya lo sé.
-- ¿Pero por qué...?
+DespuÃ©s de la muerte de sus padres en accidente de coche Se-jin y yo la hemos criado.
+Ya lo sÃ©.
+- Â¿Pero por quÃ©...?
 - Ya vale.
-Sé buena con Soo-na.
+SÃ© buena con Soo-na.
 Es todo lo que necesita.
 Comamos.
 Hola, Soo-na.
-Siéntate.
-Debes tener hambre, cariño.
-Te traeré un plato ahora mismo.
-¡Pero Soon-na!
-¿Qué haces?
-¡Para, Soo-na!
-¡Para!
-¿Queréis oír una historia graciosa?
-Había una vez una chica de instituto llamada Song-yi.
-Se enamoró de su profesor.
+SiÃ©ntate.
+Debes tener hambre, cariÃ±o.
+Te traerÃ© un plato ahora mismo.
+Â¡Pero Soon-na!
+Â¿QuÃ© haces?
+Â¡Para, Soo-na!
+Â¡Para!
+Â¿QuerÃ©is oÃ­r una historia graciosa?
+HabÃ­a una vez una chica de instituto llamada Song-yi.
+Se enamorÃ³ de su profesor.
 Tuvieron una hija juntos.
-Cuando él dejó de quererla la abandonó como a basura.
-¡Y lo que es peor!
-¡Su suegra la obligó a desaparecer!
-¿De qué estás hablando?
-No importa cómo rompieron.
+Cuando Ã©l dejÃ³ de quererla la abandonÃ³ como a basura.
+Â¡Y lo que es peor!
+Â¡Su suegra la obligÃ³ a desaparecer!
+Â¿De quÃ© estÃ¡s hablando?
+No importa cÃ³mo rompieron.
 Pero la chica fue miserable el resto de su vida.
-No pudo olvidar su primer amor y se casó con un hombre que le pegaba a diario.
-¡Para!
-¿Qué haces?
-La hija que tuvieron no lo sabía y llamó a su padre "tío" durante 17 años.
+No pudo olvidar su primer amor y se casÃ³ con un hombre que le pegaba a diario.
+Â¡Para!
+Â¿QuÃ© haces?
+La hija que tuvieron no lo sabÃ­a y llamÃ³ a su padre "tÃ­o" durante 17 aÃ±os.
 Soo-na.
-¡Tenías que haberlo visto!
+Â¡TenÃ­as que haberlo visto!
 Eres todo lo que me queda.
-¿Me estás oyendo?
-¿Dónde estás?
-¿Dónde estás?
-¿Dónde estás?
+Â¿Me estÃ¡s oyendo?
+Â¿DÃ³nde estÃ¡s?
+Â¿DÃ³nde estÃ¡s?
+Â¿DÃ³nde estÃ¡s?
 Sal.
-¿Soo-na?
+Â¿Soo-na?
 Soy yo.
-¿Podemos hablar?
+Â¿Podemos hablar?
 Soo-na.
-Sé que ha sido duro para ti con todo lo de Ha-jung.
+SÃ© que ha sido duro para ti con todo lo de Ha-jung.
 Incluso yo hace tiempo...
-Cuando tenía tu edad también sufrí mucho.
+Cuando tenÃ­a tu edad tambiÃ©n sufrÃ­ mucho.
 Y...
-¿Hola?
-Quiero saber dónde está Song-yi.
-Mi madre no me dirá nada.
-¿Puedes averiguarlo?
+Â¿Hola?
+Quiero saber dÃ³nde estÃ¡ Song-yi.
+Mi madre no me dirÃ¡ nada.
+Â¿Puedes averiguarlo?
 Por favor, amigo.
 Muchas gracias.
-¿Cuál es su relación con Soo-na?
-¿Qué?
+Â¿CuÃ¡l es su relaciÃ³n con Soo-na?
+Â¿QuÃ©?
 Song-yi, la mujer que acabas de nombrar.
 La mujer de su historia.
-Es Song-yi, ¿no?
+Es Song-yi, Â¿no?
 No.
-Se presentó en tu oficina.
-Era ella, ¿verdad?
+Se presentÃ³ en tu oficina.
+Era ella, Â¿verdad?
 No, no era ella.
-¿Qué es lo que me ocultas?
-¿Por qué iba a mentirte?
-¡No hay ningún secreto!
-Sé que estás mintiendo.
-¿No confías en mí?
-¡Estando Soo-na así, no empieces tú también!
-Más adelante.
+Â¿QuÃ© es lo que me ocultas?
+Â¿Por quÃ© iba a mentirte?
+Â¡No hay ningÃºn secreto!
+SÃ© que estÃ¡s mintiendo.
+Â¿No confÃ­as en mÃ­?
+Â¡Estando Soo-na asÃ­, no empieces tÃº tambiÃ©n!
+MÃ¡s adelante.
 Yoon-mi.
-Te lo contaré todo.
+Te lo contarÃ© todo.
 Vale.
-Entonces no me llames hasta que estés listo para hablar.
+Entonces no me llames hasta que estÃ©s listo para hablar.
 Y...deja en paz a Soo-na.
 Una Hikikomori puede empeorar si la provocas.
 Para.
 Dios.
-¿Qué es todo esto?
+Â¿QuÃ© es todo esto?
 Eh.
-¿Quién hay ahí?
-¡Ayuda!
-¡Socorro!
-¡Socorro!
-¡Ayudadme!
-¡Socorro!
-¿Quién eres?
-Lo sabías todo.
-¿Saber el qué?
-¡Sé que lo sabías!
-¡Me mentiste!
-¡Yo no sé nada!
-¡Por favor!
-¡No lo hagas!
-¡Lo sabías y me mentiste!
-¡Te maldigo, hipócrita!
-¡Socorro!
-¿No sienta bien?
-Es sólo el principio.
+Â¿QuiÃ©n hay ahÃ­?
+Â¡Ayuda!
+Â¡Socorro!
+Â¡Socorro!
+Â¡Ayudadme!
+Â¡Socorro!
+Â¿QuiÃ©n eres?
+Lo sabÃ­as todo.
+Â¿Saber el quÃ©?
+Â¡SÃ© que lo sabÃ­as!
+Â¡Me mentiste!
+Â¡Yo no sÃ© nada!
+Â¡Por favor!
+Â¡No lo hagas!
+Â¡Lo sabÃ­as y me mentiste!
+Â¡Te maldigo, hipÃ³crita!
+Â¡Socorro!
+Â¿No sienta bien?
+Es sÃ³lo el principio.
 No sabes lo que es sufrir.
-El dolor de un corazón desgarrado.
+El dolor de un corazÃ³n desgarrado.
 Espera a ver.
-Será mucho más divertido.
-¿Qué le ha pasado a la criada?
+SerÃ¡ mucho mÃ¡s divertido.
+Â¿QuÃ© le ha pasado a la criada?
 Ha tenido un shock emocional.
-Necesitará unos días de descanso.
-Hice ese agujero para plantar un árbol.
-No sé como se cayó dentro.
-¿Vino alguien anoche?
+NecesitarÃ¡ unos dÃ­as de descanso.
+Hice ese agujero para plantar un Ã¡rbol.
+No sÃ© como se cayÃ³ dentro.
+Â¿Vino alguien anoche?
 No, estuve delante del monitor todo el tiempo.
 No vi ni una mosca.
-Señor Kim.
-¿Si?
-¡Asegúrate de que no se sepa!
-Sí, señora.
-Me ocuparé de todo, mamá.
+SeÃ±or Kim.
+Â¿Si?
+Â¡AsegÃºrate de que no se sepa!
+SÃ­, seÃ±ora.
+Me ocuparÃ© de todo, mamÃ¡.
 Lleva a la criada al hospital.
-¿Qué?
+Â¿QuÃ©?
 Vale.
 Descansa en paz, Moong-chi.
-¡Señor Kim!
-¡Dame una escalera!
+Â¡SeÃ±or Kim!
+Â¡Dame una escalera!
 Mocosa.
 Si te pillo...
 Tenga cuidado.
-Niña malcriada.
+NiÃ±a malcriada.
 Tenga cuidado.
-¿Soo-na?
+Â¿Soo-na?
 Soo-na.
-¡Oh, no!
-¿Está bien, señora?
-¡Abre!
-¡Abre la puerta!
-¿Sabes lo que le has hecho a la abuela?
-¡Abre!
-¡Abre!
-¡Abre ya!
-Sigue intentado abrir y me cortaré el cuello.
+Â¡Oh, no!
+Â¿EstÃ¡ bien, seÃ±ora?
+Â¡Abre!
+Â¡Abre la puerta!
+Â¿Sabes lo que le has hecho a la abuela?
+Â¡Abre!
+Â¡Abre!
+Â¡Abre ya!
+Sigue intentado abrir y me cortarÃ© el cuello.
 La criada Moong-chi, el perro y ahora tu madre.
 Pasa algo raro.
-Tengo extrañas pesadillas.
-Señor Kim.
-No sé cuánto más aguantaré.
+Tengo extraÃ±as pesadillas.
+SeÃ±or Kim.
+No sÃ© cuÃ¡nto mÃ¡s aguantarÃ©.
 Tengo una casa en el campo.
 Ah.
 Puede que necesiten una mano durante unos meses.
-¿De verdad?
+Â¿De verdad?
 Muchas gracias.
-Muchísimas gracias.
+MuchÃ­simas gracias.
 No sabes lo que es ser abandonada por alguien a quien quieres.
 Semidesnuda, llena de heridas...
 No conoces el dolor.
-¡Mientras estuve hundida lloré lágrimas de sangre!
+Â¡Mientras estuve hundida llorÃ© lÃ¡grimas de sangre!
 Lo siento.
 Yo te necesito.
-Soo-na está empeorando.
+Soo-na estÃ¡ empeorando.
 Habla sola y se autolesiona.
-Ojalá estuvieras aquí, Yoon-mi.
+OjalÃ¡ estuvieras aquÃ­, Yoon-mi.
 Te necesito.
 Por favor, salva a Soo-na.
 Lo siento.
 Lo siento mucho.
-"¡Cobarde!" "¡Lo hago todo sola!"
-¡Esa mocosa!
+"Â¡Cobarde!" "Â¡Lo hago todo sola!"
+Â¡Esa mocosa!
 Ay, mi espalda.
 Maldita...
-¡Para ya!
-¡Que pares!
-¡Para!
-¿Soo-na?
-Analizando los dibujos ¿podemos encontrar el factor que ha causado la enfermedad?
-Sí, los dibujos podrían darnos pistas.
+Â¡Para ya!
+Â¡Que pares!
+Â¡Para!
+Â¿Soo-na?
+Analizando los dibujos Â¿podemos encontrar el factor que ha causado la enfermedad?
+SÃ­, los dibujos podrÃ­an darnos pistas.
 Los Hikikomoris no tienen traumas imaginarios.
-La causa de su enfermedad es un shock psicológico.
-Podremos tratarla si llegas a la raíz.
-Estoy seguro de que encontrarás la razón del estado de Soo-na.
-¿Te importa si me lo llevo?
+La causa de su enfermedad es un shock psicolÃ³gico.
+Podremos tratarla si llegas a la raÃ­z.
+Estoy seguro de que encontrarÃ¡s la razÃ³n del estado de Soo-na.
+Â¿Te importa si me lo llevo?
 No, espero que te sirva.
-¿Dónde lo he visto?
+Â¿DÃ³nde lo he visto?
 Muchas gracias.
 Te debo un favor.
-¿Para qué están los amigos?
-Adiós.
+Â¿Para quÃ© estÃ¡n los amigos?
+AdiÃ³s.
 En cualquier momento.
 Ya la conociste.
-No entiendo porqué no la ves.
+No entiendo porquÃ© no la ves.
 He encontrado a Song-yi.
-Lo siento, amigo. Está muerta.
-Se suicidó.
+Lo siento, amigo. EstÃ¡ muerta.
+Se suicidÃ³.
 Durante la gran tormenta.
-Saltó contra el tren de las dos.
+SaltÃ³ contra el tren de las dos.
 Con la lluvia y eso el maquinista no pudo verla.
-¿Soo-na?
+Â¿Soo-na?
 "Es culpa tuya"
-"Tú la mataste"
-"Es culpa tuya" "Tú la mataste"
+"TÃº la mataste"
+"Es culpa tuya" "TÃº la mataste"
 Hola.
-¿Quién eres?
+Â¿QuiÃ©n eres?
 Soo-na.
-¿Estás bien, Soo-na?
-¡Reacciona, Soo-na!
+Â¿EstÃ¡s bien, Soo-na?
+Â¡Reacciona, Soo-na!
 No fui yo.
 Yo no lo hice.
-¡Soo-na!
-¡Abre la puerta, Soo-na!
-¿Qué diablos te pasa?
-¡Te dije que me dejaras en paz!
-¡Por favor!
+Â¡Soo-na!
+Â¡Abre la puerta, Soo-na!
+Â¿QuÃ© diablos te pasa?
+Â¡Te dije que me dejaras en paz!
+Â¡Por favor!
 Abre la puerta.
 Abre, por favor.
-¡Déjame en paz!
-¡Piérdete!
-¡Soo-na!
-¡Por favor!
+Â¡DÃ©jame en paz!
+Â¡PiÃ©rdete!
+Â¡Soo-na!
+Â¡Por favor!
 Por favor, Soo-na.
-¿Para qué quieres la dirección de Song-yi?
+Â¿Para quÃ© quieres la direcciÃ³n de Song-yi?
 No es porque tenga celos de una mujer de su pasado.
-Está muerta.
+EstÃ¡ muerta.
 Pero la vi hace no mucho.
-Parece que se suicidó.
-Saltó delante del tren.
+Parece que se suicidÃ³.
+SaltÃ³ delante del tren.
 Soo-na.
 Escucha bien lo que voy a decirte.
 Bueno.
-Cuando estaba en la universidad había una chica muy guapa.
+Cuando estaba en la universidad habÃ­a una chica muy guapa.
 Yo era tutor.
 Nos enamoramos.
-Todos decían que estábamos locos. Nosotros nos queríamos de verdad..
-Yo no abandoné a tu madre.
-Quería empezar a ganarme la vida y hacerla feliz.
+Todos decÃ­an que estÃ¡bamos locos. Nosotros nos querÃ­amos de verdad..
+Yo no abandonÃ© a tu madre.
+QuerÃ­a empezar a ganarme la vida y hacerla feliz.
 Tuve que cumplir el servicio militar.
-Pero cuando terminé ella se había casado con otro.
-Hasta ahora, criándote siempre lo he lamentado.
+Pero cuando terminÃ© ella se habÃ­a casado con otro.
+Hasta ahora, criÃ¡ndote siempre lo he lamentado.
 Quise decirte la verdad en varias ocasiones.
-Pero el tiempo ha pasado muy rápido.
+Pero el tiempo ha pasado muy rÃ¡pido.
 Si yo...
-Si hubiera conocido a tu madre siendo más maduro nunca...
-Nunca la habría abandonado.
+Si hubiera conocido a tu madre siendo mÃ¡s maduro nunca...
+Nunca la habrÃ­a abandonado.
 Una semana.
 Un mes.
-Un año.
-Puedes explicármelo ahora, pero ya no importa.
-Me mentiste durante 17 años.
-¿Quieres que me crea eso?
-¡No!
-¡No sabes cómo es la pesadilla de vivir como un perro abandonado!
+Un aÃ±o.
+Puedes explicÃ¡rmelo ahora, pero ya no importa.
+Me mentiste durante 17 aÃ±os.
+Â¿Quieres que me crea eso?
+Â¡No!
+Â¡No sabes cÃ³mo es la pesadilla de vivir como un perro abandonado!
 Soo-na. Espera.
 Es la verdad.
-Créeme, por favor.
+CrÃ©eme, por favor.
 He pasado un infierno deseando y anhelando.
 Soo-na.
-¿La verdad?
-¡Demuéstralo!
-¡Haz algo!
-¿Qué debo hacer?
-¿Qué necesitas para creerme?
+Â¿La verdad?
+Â¡DemuÃ©stralo!
+Â¡Haz algo!
+Â¿QuÃ© debo hacer?
+Â¿QuÃ© necesitas para creerme?
 Salta delante del tren...
-¿Qué?
-¿Cómo lo sabes?
-¡No sabes lo que es ni el dolor, ni el amor!
+Â¿QuÃ©?
+Â¿CÃ³mo lo sabes?
+Â¡No sabes lo que es ni el dolor, ni el amor!
 Soo-na.
-No puedes saltar, ¿verdad?
-Déjame en paz.
+No puedes saltar, Â¿verdad?
+DÃ©jame en paz.
 Es todo lo que puedes hacer.
 Por favor, Soo-na.
 Abre la puerta.
-¡Abre!
-¡Abre la puerta!
-¡Abre, por favor!
-¡Abre la puerta!
-¡Abre, Soo-na!
-¡Dime qué hacer!
-¿Qué hago para que me creas?
-Mamá debe estar aún enamorada de papá.
-¿Hola?
+Â¡Abre!
+Â¡Abre la puerta!
+Â¡Abre, por favor!
+Â¡Abre la puerta!
+Â¡Abre, Soo-na!
+Â¡Dime quÃ© hacer!
+Â¿QuÃ© hago para que me creas?
+MamÃ¡ debe estar aÃºn enamorada de papÃ¡.
+Â¿Hola?
 Hola, Geun-ho.
-¿Puedes enviarme su dirección?
+Â¿Puedes enviarme su direcciÃ³n?
 Gracias.
 Hola, ha llamado a Yoon-mi.
 Por favor, deje su mensaje.
-Mentí a Soo-na y te mentí a ti.
+MentÃ­ a Soo-na y te mentÃ­ a ti.
 Soy un idiota.
 Todo es por mi culpa.
 Lo siento, Yoon-mi.
@@ -671,330 +671,330 @@ Lo siento mucho.
 Ya no tengo nada que perder.
 Espero que encuentres a alguien y seas feliz.
 Soo-na.
-¡Soo-na!
+Â¡Soo-na!
 "245-3, Bongchun-dong"
-¿Hola?
-¿Hay alguien en casa?
+Â¿Hola?
+Â¿Hay alguien en casa?
 "Kim Mi-jung, 245-3, Bongchun-dong"
-¡Se acabó!
-¡Aléjate de Soo-na!
-¡Déjala!
+Â¡Se acabÃ³!
+Â¡AlÃ©jate de Soo-na!
+Â¡DÃ©jala!
 Yoon-mi.
-¡Yoon-mi!
+Â¡Yoon-mi!
 Despierta, Yoon-mi.
-¡No, por favor!
+Â¡No, por favor!
 Soo-na.
 Soo-na.
-¡Soo-na!
-¡Soo-na!
-¡Soo-na!
-¡No, Soo-na!
-Quédate ahí.
-Tú has provocado esto.
+Â¡Soo-na!
+Â¡Soo-na!
+Â¡Soo-na!
+Â¡No, Soo-na!
+QuÃ©date ahÃ­.
+TÃº has provocado esto.
 Estaba equivocado.
-Es todo culpa de papá.
-¡Hipócrita!
-¡Quería vengarme!
-¡No, Soo-na!
-¡No te muevas, por favor!
-¡No sigas!
-¿Qué tengo que hacer para que me perdones?
-¿Perdonarte?
+Es todo culpa de papÃ¡.
+Â¡HipÃ³crita!
+Â¡QuerÃ­a vengarme!
+Â¡No, Soo-na!
+Â¡No te muevas, por favor!
+Â¡No sigas!
+Â¿QuÃ© tengo que hacer para que me perdones?
+Â¿Perdonarte?
 Nos has destruido el alma.
-¿Dónde estabas?
+Â¿DÃ³nde estabas?
 Nunca nos has ayudado
 Te pedimos ayuda y nos ignoraste como si fueras sordo.
 Quedamos demacradas y te hiciste el ciego.
-Si hubieras dicho que nos querías, podríamos haber vivido.
-¡Pero te callaste como un mudo!
-¡No, no sigas!
-¡Te haré pagar para siempre!
-¡No!
-¡No, papá!
-¡No!
-¡Papá!
-¡Papá!
-¡No, papá!
-¡Papá!
-¿Quién eres?
-¡Tú has provocado esto!
-¡Dilo!
-¿Quién eres?
-¿Por qué haces esto?
+Si hubieras dicho que nos querÃ­as, podrÃ­amos haber vivido.
+Â¡Pero te callaste como un mudo!
+Â¡No, no sigas!
+Â¡Te harÃ© pagar para siempre!
+Â¡No!
+Â¡No, papÃ¡!
+Â¡No!
+Â¡PapÃ¡!
+Â¡PapÃ¡!
+Â¡No, papÃ¡!
+Â¡PapÃ¡!
+Â¿QuiÃ©n eres?
+Â¡TÃº has provocado esto!
+Â¡Dilo!
+Â¿QuiÃ©n eres?
+Â¿Por quÃ© haces esto?
 Es todo culpa tuya.
 Entonces...
-Te haré pagar para siempre.
-¿Quién diablos...?
-¿Quién eres?
-¡Te haré pagar!
+Te harÃ© pagar para siempre.
+Â¿QuiÃ©n diablos...?
+Â¿QuiÃ©n eres?
+Â¡Te harÃ© pagar!
 Eres el diablo.
-Papá.
-¿Vuelves a abandonarme?
-Mamá me dio a luz.
-Después volvió a quedarse embarazada de mi hermana pequeña, Mi-jung.
-Mamá ocultó el embarazo y se casó.
-Tenía miedo de que la abuela se llevara también a Mi-jung.
+PapÃ¡.
+Â¿Vuelves a abandonarme?
+MamÃ¡ me dio a luz.
+DespuÃ©s volviÃ³ a quedarse embarazada de mi hermana pequeÃ±a, Mi-jung.
+MamÃ¡ ocultÃ³ el embarazo y se casÃ³.
+TenÃ­a miedo de que la abuela se llevara tambiÃ©n a Mi-jung.
 Mi pobre madre...
 Detestaba a mi padre por haberme mentido.
-Y a la abuela también.
-Así que me confabulé con Mi-jung.
-No lo pensé.
-Cabrón.
-Cuando descubrió que Mi-jung no era hija suya empezó a violarla.
-Por eso mostraba síntomas de Hikikomori.
-Creo que también tiene algo que ver con la muerte de Song-yi.
+Y a la abuela tambiÃ©n.
+AsÃ­ que me confabulÃ© con Mi-jung.
+No lo pensÃ©.
+CabrÃ³n.
+Cuando descubriÃ³ que Mi-jung no era hija suya empezÃ³ a violarla.
+Por eso mostraba sÃ­ntomas de Hikikomori.
+Creo que tambiÃ©n tiene algo que ver con la muerte de Song-yi.
 Hijo de puta.
 He informado a los medios.
 Le cazaremos pronto.
 "1 mensaje nuevo"
 "Mensaje privado de Mi-jung"
-Si algo me sucediera, no podría cancelar el envío del mail.
-Entonces seguramente lo estarías leyendo.
-He estado cambiando la fecha de envío a diario.
-Te despreciaba por abandonarnos a mí y a mamá.
-Cada vez que ese cabrón me violaba te odiaba más.
-Pensé que era la única forma de hacerte pagar por nuestros sufrimientos.
-Cuando mamá murió, apareció Soo-na y me invitó a vivir con ella.
-Después de una semana en su casa quiso que dejáramos de torturarte con nuestro plan.
+Si algo me sucediera, no podrÃ­a cancelar el envÃ­o del mail.
+Entonces seguramente lo estarÃ­as leyendo.
+He estado cambiando la fecha de envÃ­o a diario.
+Te despreciaba por abandonarnos a mÃ­ y a mamÃ¡.
+Cada vez que ese cabrÃ³n me violaba te odiaba mÃ¡s.
+PensÃ© que era la Ãºnica forma de hacerte pagar por nuestros sufrimientos.
+Cuando mamÃ¡ muriÃ³, apareciÃ³ Soo-na y me invitÃ³ a vivir con ella.
+DespuÃ©s de una semana en su casa quiso que dejÃ¡ramos de torturarte con nuestro plan.
 Pero no pude.
-Pobre mamá.
+Pobre mamÃ¡.
 Se me aparece cada noche.
 Es feliz con lo que hago.
-Pero un día te sentaste delante de la puerta y hablaste de cómo la conociste, la amaste y te separaste de ella.
-Entonces me di cuenta de que decías la verdad.
+Pero un dÃ­a te sentaste delante de la puerta y hablaste de cÃ³mo la conociste, la amaste y te separaste de ella.
+Entonces me di cuenta de que decÃ­as la verdad.
 Siento celos de Soo-na.
 Por el calor de tu tacto y tus dulces palabras.
-Estos días puedo sentir el calor de tener un padre.
+Estos dÃ­as puedo sentir el calor de tener un padre.
 No puedo dejar de llorar.
 Lo siento por mama, pero empiezo a compadecerte.
-Estás sufriendo por mi culpa.
-Duele verte más débil día tras día.
-¿Por qué Soo-na no ve a mamá?
-Creo que ya se le está pasando.
+EstÃ¡s sufriendo por mi culpa.
+Duele verte mÃ¡s dÃ©bil dÃ­a tras dÃ­a.
+Â¿Por quÃ© Soo-na no ve a mamÃ¡?
+Creo que ya se le estÃ¡ pasando.
 Si te perdonara, quiero vivir contigo.
 Todos juntos para siempre.
-¿Cómo estoy?
+Â¿CÃ³mo estoy?
 - Guapa.
-- ¡Gracias!
-¿Qué tal el parque de atracciones?
-Está rico.
-Oye, Cerebro, ¿qué vamos a hacer esta noche?
+- Â¡Gracias!
+Â¿QuÃ© tal el parque de atracciones?
+EstÃ¡ rico.
+Oye, Cerebro, Â¿quÃ© vamos a hacer esta noche?
 Lo mismo que todas las noches, Pinky.
 Tratar de conquistar el mundo.
 Son Pinky y Cerebro
 Pinky y Cerebro
-Uno es un genio El otro no está cuerdo
+Uno es un genio El otro no estÃ¡ cuerdo
 De laboratorio son Con genes injertados
 Son Pinky Son Pinky y Cerebro, bro, bro, bro
 Bro, bro, bro, bro, bro
 Antes del amanecer
-Desarrollarán su plan Y, cuando salga el sol
-El mundo conquistarán
+DesarrollarÃ¡n su plan Y, cuando salga el sol
+El mundo conquistarÃ¡n
 Son Pinky y Cerebro
 Pinky y Cerebro
-Su motivación Es fácil de explicar
+Su motivaciÃ³n Es fÃ¡cil de explicar
 Para probar su valor
-El mundo conquistarán
+El mundo conquistarÃ¡n
 Son Pinky Son Pinky y Cerebro, bro, bro, bro
 Bro, bro, bro, bro
-¡Narf!
-¡Al fin, Profesor Mifune!
-Perfeccionaste los dispositivos de encogimiento para vendérselos a los norteamericanos por mucho dinero.
-¡Sí, Shimura!
-La miniaturización, será muy grande.
-Rumores de apariciones del legendario monstruo Gollyzilla espantan a miles de personas en el norte de Japón.
-NINGUNA LLAMADA PERSONAL POR FAVOR ¿Sí?
-Sí.
+Â¡Narf!
+Â¡Al fin, Profesor Mifune!
+Perfeccionaste los dispositivos de encogimiento para vendÃ©rselos a los norteamericanos por mucho dinero.
+Â¡SÃ­, Shimura!
+La miniaturizaciÃ³n, serÃ¡ muy grande.
+Rumores de apariciones del legendario monstruo Gollyzilla espantan a miles de personas en el norte de JapÃ³n.
+NINGUNA LLAMADA PERSONAL POR FAVOR Â¿SÃ­?
+SÃ­.
 Muy bien.
 Era el emperador.
-Quiere tu opinión científica sobre Gollyzilla.
-¡Gollyzilla!
-¡Vamos!
-¡No hay tiempo que perder!
-¡Narf, Cerebro!
-¡Vamos a ver a Gollyzilla!
-Podemos observarlo con emoción destruir edificios y huir aterrados.
+Quiere tu opiniÃ³n cientÃ­fica sobre Gollyzilla.
+Â¡Gollyzilla!
+Â¡Vamos!
+Â¡No hay tiempo que perder!
+Â¡Narf, Cerebro!
+Â¡Vamos a ver a Gollyzilla!
+Podemos observarlo con emociÃ³n destruir edificios y huir aterrados.
 Ya basta, Pinky.
 Ay, Gracias, Cerebro.
-¡Este equipo científico es invaluable para mi plan de conquistar el mundo!
-¿Encogerás dispositivos electrónicos para que sólo los operen los ratones?
+Â¡Este equipo cientÃ­fico es invaluable para mi plan de conquistar el mundo!
+Â¿EncogerÃ¡s dispositivos electrÃ³nicos para que sÃ³lo los operen los ratones?
 No seas absurdo, Pinky.
-No hay futuro en la miniaturización.
-Son las cosas grandes las que atemorizan al corazón humano.
-Como esa ridícula leyenda de Gollyzilla.
-Disparate mítico al que se aferran los humanos desorientados.
-¿Estás pensando lo mismo que yo?
-Eso creo, Cerebro, pero no creo que Kaye Ballard esté en la unión.
-Modificaré este equipo y me agrandaré para volverme un ratón gigante que salvará al mundo de Gollyzilla.
+No hay futuro en la miniaturizaciÃ³n.
+Son las cosas grandes las que atemorizan al corazÃ³n humano.
+Como esa ridÃ­cula leyenda de Gollyzilla.
+Disparate mÃ­tico al que se aferran los humanos desorientados.
+Â¿EstÃ¡s pensando lo mismo que yo?
+Eso creo, Cerebro, pero no creo que Kaye Ballard estÃ© en la uniÃ³n.
+ModificarÃ© este equipo y me agrandarÃ© para volverme un ratÃ³n gigante que salvarÃ¡ al mundo de Gollyzilla.
 Pero dijiste que Gollyzilla no existe, Cerebro.
-Ahora sí, Pinky, o debería decir, Pinkzilla.
-Sí, ya veo.
-¡Listo!
-Revertí las especificaciones del rayo.
-¿Estás listo, Pinky?
-¿Qué te parece, Cerebro?
-Da miedo, ¿eh?
-Sí, Pinky.
+Ahora sÃ­, Pinky, o deberÃ­a decir, Pinkzilla.
+SÃ­, ya veo.
+Â¡Listo!
+RevertÃ­ las especificaciones del rayo.
+Â¿EstÃ¡s listo, Pinky?
+Â¿QuÃ© te parece, Cerebro?
+Da miedo, Â¿eh?
+SÃ­, Pinky.
 Aterrador.
 Aguarda.
-¡Narf!
-¿Dónde estás, Cerebro?
+Â¡Narf!
+Â¿DÃ³nde estÃ¡s, Cerebro?
 No te veo.
 Estoy debajo...
 Espera, Cerebro, tengo chicle en el zapato.
-Tu coeficiente intelectual no creció como tu zapato, Pinky.
+Tu coeficiente intelectual no creciÃ³ como tu zapato, Pinky.
 Ahora, ve a hacer alboroto, Pinkzilla.
 Y no tengas piedad.
 Soy Pinkzilla, rey de los monstruos.
-En sólo diez minutos, llegaré a la escena ¡y salvaré a Tokio del terror de Pinkzilla!
-Sí, ya entiendo.
+En sÃ³lo diez minutos, llegarÃ© a la escena Â¡y salvarÃ© a Tokio del terror de Pinkzilla!
+SÃ­, ya entiendo.
 Te amo, Fumiko.
 Y yo te amo a ti, Herschel.
-¡Gollyzilla!
-¡Hola!
+Â¡Gollyzilla!
+Â¡Hola!
 Estoy armando alboroto.
-¡Huyan aterrados!
-¡Vamos!
-¡Buh!
-- ¡Gollyzilla!
-- ¡Huyamos por nuestras vidas!
-No puedo ver a través de esta cosa.
-¡Ay, no!
-¡El monstruo gigante está mudando la piel!
-¡Dios!
-Sí, ya veo.
-Ahora, a convertirme en el ratón más grande y héroe del planeta.
-¡Llámenme Cerenodo!
-¡Pueblo de Tokio, no temáis!
+Â¡Huyan aterrados!
+Â¡Vamos!
+Â¡Buh!
+- Â¡Gollyzilla!
+- Â¡Huyamos por nuestras vidas!
+No puedo ver a travÃ©s de esta cosa.
+Â¡Ay, no!
+Â¡El monstruo gigante estÃ¡ mudando la piel!
+Â¡Dios!
+SÃ­, ya veo.
+Ahora, a convertirme en el ratÃ³n mÃ¡s grande y hÃ©roe del planeta.
+Â¡LlÃ¡menme Cerenodo!
+Â¡Pueblo de Tokio, no temÃ¡is!
 Yo, Cerenodo, he venido a salvaros.
-¡Es otro monstruo gigante!
-Aún más feo que Gollyzilla.
-Soy un ratón de laboratorio agrandado artificialmente que vino a salvarlos.
-Pueden agradecerme después, convirtiéndome en su líder.
+Â¡Es otro monstruo gigante!
+AÃºn mÃ¡s feo que Gollyzilla.
+Soy un ratÃ³n de laboratorio agrandado artificialmente que vino a salvarlos.
+Pueden agradecerme despuÃ©s, convirtiÃ©ndome en su lÃ­der.
 A menos que eso no encaje en sus planes.
-¿Dónde está Pinky?
-¿Cómo puedo salvar a la ciudad de Gollyzilla sin Gollyzilla?
+Â¿DÃ³nde estÃ¡ Pinky?
+Â¿CÃ³mo puedo salvar a la ciudad de Gollyzilla sin Gollyzilla?
 Pinky.
-¿Dónde estuviste?
+Â¿DÃ³nde estuviste?
 No importa.
-No puedo entenderte con ese estúpido disfraz.
+No puedo entenderte con ese estÃºpido disfraz.
 Haz que esta batalla parezca real, Pinky.
 Todo depende de esto.
-¡Toma eso, bestia horrible!
+Â¡Toma eso, bestia horrible!
 Me hiciste enojar, Pinky.
-Discúlpame, Cerebro.
+DiscÃºlpame, Cerebro.
 Vete, Pinky.
-¿No ves que peleo con Pinky?
-Bueno. ¡No, espera!
-¿Cómo puedes pelear conmigo allí, si estoy parado aquí?
+Â¿No ves que peleo con Pinky?
+Bueno. Â¡No, espera!
+Â¿CÃ³mo puedes pelear conmigo allÃ­, si estoy parado aquÃ­?
 Es un principio muy simple, Pinky.
 Es porque...
-¡Ése es el verdadero Gollyzilla!
-Sí, yo...
-El gordo con traje es sorprendentemente ágil.
-LABORATORIOS ACMESHITO Lástima que ya no somos gigantes, Cerebro.
-Aún somos gigantes, Pinky.
-Por desgracia, lo demás también lo es.
-Nuestra pequeñez relativa permanece.
-Pero no debemos quedarnos en esto, debemos prepararnos para mañana.
-¿Qué haremos los tres mañana por la noche, Cerebro?
-¿Los tres?
+Â¡Ã‰se es el verdadero Gollyzilla!
+SÃ­, yo...
+El gordo con traje es sorprendentemente Ã¡gil.
+LABORATORIOS ACMESHITO LÃ¡stima que ya no somos gigantes, Cerebro.
+AÃºn somos gigantes, Pinky.
+Por desgracia, lo demÃ¡s tambiÃ©n lo es.
+Nuestra pequeÃ±ez relativa permanece.
+Pero no debemos quedarnos en esto, debemos prepararnos para maÃ±ana.
+Â¿QuÃ© haremos los tres maÃ±ana por la noche, Cerebro?
+Â¿Los tres?
 Lo que hacemos todas las noches, Pinky.
 - Tratar de conquistar el mundo.
-- Sí. Sí, ya veo.
+- SÃ­. SÃ­, ya veo.
 Son Pinky Son Pinky y Cerebro, bro, bro, bro
 Bro, bro, bro, bro
-...esencia matemática del núcleo...
+...esencia matemÃ¡tica del nÃºcleo...
 ESTO PERTENECE A: CEREBRO
-Y nuevamente factorizando el equivalente numérico.
+Y nuevamente factorizando el equivalente numÃ©rico.
 El problema...
-¡Pinky!
-¿Pinky?
-¿Qué hacías allí arriba, Pinky?
-Me divertía mucho limpiando la chimenea, Cerebro.
+Â¡Pinky!
+Â¿Pinky?
+Â¿QuÃ© hacÃ­as allÃ­ arriba, Pinky?
+Me divertÃ­a mucho limpiando la chimenea, Cerebro.
 No tenemos chimenea.
-Bueno, ahí tienes entonces.
+Bueno, ahÃ­ tienes entonces.
 No, Pinky.
-Ahí tienes tú.
+AhÃ­ tienes tÃº.
 Yo no estoy para nada cerca de eso.
-¿Alguna vez pensaste por qué no tuvimos éxito para conquistar el mundo?
-Yo sé por qué, Cerebro. Gremlins.
+Â¿Alguna vez pensaste por quÃ© no tuvimos Ã©xito para conquistar el mundo?
+Yo sÃ© por quÃ©, Cerebro. Gremlins.
 Duendecillos que nos confunden y aturden.
-Siempre jugueteando con sus deditos en nuestros oídos.
-Una teoría interesante.
-Pero revisé nuestros esfuerzos del pasado, Pinky convirtiendo las situaciones en números, para hallar el problema.
-Bueno, eso suena muy... ¡Narf!
-Sí, seguro que sí.
-Hice una gráfica con los números y el resultado es muy interesante.
-¡Dios, Cerebro!
-Eso se parece a mí, pero chato.
-Eres tú, Pinky.
-Mis cálculos demuestran que tú eres el problema.
-- ¿Pinky?
-- Sí, Pinky.
-Científicamente, debido a que eres un tonto cabeza de escarabajo con el intelecto de una mula es que aún debo conquistar el mundo.
-No te desharás de mí, ¿verdad, Cerebro?
-Quiero decir, ¿tú, trabajando solo?
-Mira cómo le fue a Jerry Lewis al separarse de Dean.
+Siempre jugueteando con sus deditos en nuestros oÃ­dos.
+Una teorÃ­a interesante.
+Pero revisÃ© nuestros esfuerzos del pasado, Pinky convirtiendo las situaciones en nÃºmeros, para hallar el problema.
+Bueno, eso suena muy... Â¡Narf!
+SÃ­, seguro que sÃ­.
+Hice una grÃ¡fica con los nÃºmeros y el resultado es muy interesante.
+Â¡Dios, Cerebro!
+Eso se parece a mÃ­, pero chato.
+Eres tÃº, Pinky.
+Mis cÃ¡lculos demuestran que tÃº eres el problema.
+- Â¿Pinky?
+- SÃ­, Pinky.
+CientÃ­ficamente, debido a que eres un tonto cabeza de escarabajo con el intelecto de una mula es que aÃºn debo conquistar el mundo.
+No te desharÃ¡s de mÃ­, Â¿verdad, Cerebro?
+Quiero decir, Â¿tÃº, trabajando solo?
+Mira cÃ³mo le fue a Jerry Lewis al separarse de Dean.
 Todo eso en tu cabello.
 Punto ganado.
-Pero no temáis, tengo otro plan.
-Pinky, te haré inteligente.
+Pero no temÃ¡is, tengo otro plan.
+Pinky, te harÃ© inteligente.
 - Yo...
 Yo no entiendo, Cerebro.
 - Exactamente.
-Pero entenderás, amigo mío.
-Entenderás.
-Dios, Cerebro, ¿por qué nadie se hace inteligente por sí solo?
+Pero entenderÃ¡s, amigo mÃ­o.
+EntenderÃ¡s.
+Dios, Cerebro, Â¿por quÃ© nadie se hace inteligente por sÃ­ solo?
 Todo esto parece tan simple.
-Como todas las grandes cosas, Pinky, la idea es simple pero en la ejecución está la dificultad.
-Allí está el genio.
-Está tomando una siesta, ¿no?
-Pinky, operar esta máquina requiere la mayor rapidez posible.
-Decisiones al segundo, inmensas cantidades de datos increíble aptitud mental y sincronización.
+Como todas las grandes cosas, Pinky, la idea es simple pero en la ejecuciÃ³n estÃ¡ la dificultad.
+AllÃ­ estÃ¡ el genio.
+EstÃ¡ tomando una siesta, Â¿no?
+Pinky, operar esta mÃ¡quina requiere la mayor rapidez posible.
+Decisiones al segundo, inmensas cantidades de datos increÃ­ble aptitud mental y sincronizaciÃ³n.
 - En otras palabras...
-- Yo no podría.
+- Yo no podrÃ­a.
 No.
 INTELIGENTE
 Cuarenta y siete cero seis, 19 Kelvin, Fibonacci n menos uno, ya va, ya va...
-¡Ahora!
-¿Pinky?
+Â¡Ahora!
+Â¿Pinky?
 Fue divertido, Cerebro.
 Siento un hormigueo.
-Divertido, quizá, pero obviamente infructuoso.
-No, no, no, creo que sí lo fue.
-Al principio parecía no funcionar el dipolo...
+Divertido, quizÃ¡, pero obviamente infructuoso.
+No, no, no, creo que sÃ­ lo fue.
+Al principio parecÃ­a no funcionar el dipolo...
 Pero hay frecuencias menores a 30 megahertz, alto y claro.
-Y debo decir, ¿la onda de mayor valor del voltaje del impulso?
-¡Gloriosa!
-¡Narf!
-¡Llegar al valor máximo sin oscilaciones superpuestas apreciables!
-Dios, Cerebro. ¡Brillante!
-¡Sí!
-Te diré el plan de esta noche para conquistar el mundo, Pinky.
-Siento curiosidad por tu opinión.
-Bueno, Cerebro. ¡Narf!
-Me haré pasar por Jimmy Hoffa de regreso de sus vacaciones.
-Líderes laborales me harán reverencia y me ayudarán a utilizar el complejo industrial para hacer el vertoconvector.
-Crearé millones de géiseres diminutos que levantarán a la gente unos centímetros, inmovilizándola.
-¡Dios, Cerebro!
-¡Es como hockey aéreo gigante!
-¡Brillante!
+Y debo decir, Â¿la onda de mayor valor del voltaje del impulso?
+Â¡Gloriosa!
+Â¡Narf!
+Â¡Llegar al valor mÃ¡ximo sin oscilaciones superpuestas apreciables!
+Dios, Cerebro. Â¡Brillante!
+Â¡SÃ­!
+Te dirÃ© el plan de esta noche para conquistar el mundo, Pinky.
+Siento curiosidad por tu opiniÃ³n.
+Bueno, Cerebro. Â¡Narf!
+Me harÃ© pasar por Jimmy Hoffa de regreso de sus vacaciones.
+LÃ­deres laborales me harÃ¡n reverencia y me ayudarÃ¡n a utilizar el complejo industrial para hacer el vertoconvector.
+CrearÃ© millones de gÃ©iseres diminutos que levantarÃ¡n a la gente unos centÃ­metros, inmovilizÃ¡ndola.
+Â¡Dios, Cerebro!
+Â¡Es como hockey aÃ©reo gigante!
+Â¡Brillante!
 Espera.
 No, no, no.
-Sí, ¿Pinky?
+SÃ­, Â¿Pinky?
 Bueno, los valores de los coeficientes de tu Fourier...
-Debería ser seno, no coseno.
+DeberÃ­a ser seno, no coseno.
 Esto da vuelta a todo.
-No funcionará.
-Pinky, ¡eso es!
-¿Estás pensando lo mismo que yo?
-Sí.
-¡Esto es fantástico!
-¿Te das cuenta?
-¡Ya nos ahorraste toda una noche!
-¡Tremendo!
+No funcionarÃ¡.
+Pinky, Â¡eso es!
+Â¿EstÃ¡s pensando lo mismo que yo?
+SÃ­.
+Â¡Esto es fantÃ¡stico!
+Â¿Te das cuenta?
+Â¡Ya nos ahorraste toda una noche!
+Â¡Tremendo!
 Olvida ese plan.
-Mira éste, colega.
-¡Ay, Cerebro!
-¡Poit!
+Mira Ã©ste, colega.
+Â¡Ay, Cerebro!
+Â¡Poit!
