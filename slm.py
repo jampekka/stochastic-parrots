@@ -3,6 +3,8 @@ from collections import defaultdict, Counter
 import random
 from itertools import islice
 
+from slm_torch import *
+
 class LanguageModel:
     """A base class for language models"""
     def __init__(self, tokenizer, embedder, predictor):
