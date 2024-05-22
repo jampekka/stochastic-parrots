@@ -3,6 +3,7 @@ from transformers import AutoTokenizer
 class Gpt2Tokenizer:
     def __init__(self):
         self.tokenizer = AutoTokenizer.from_pretrained('gpt2')
+        self.tokenizer.model_max_length = 99999999
     
     def __call__(self, text):
         tokens = self.tokenizer(text)
