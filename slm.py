@@ -2,8 +2,9 @@ import sys
 from collections import defaultdict, Counter
 import random
 from itertools import islice
-from slm_torch import *
 import numpy as np
+
+
 
 class LanguageModel:
     def __init__(self, tokenizer, predictor):
@@ -22,19 +23,34 @@ class LanguageModel:
     def train(self, tokens):
         data = self.get_training_data(tokens)
         self.predictor.train(data)
+
+    def pad_context(self, context):
+        l = len(context)
+        if l > self.context_length:
+            return context[-self.context_length:]
+        if l < self.context_length:
+            n_pad = self.context_length - l
+            return (*[0]*n_pad, *context)
+        return context
     
-    def generate(self, context, max_tokens=9999999, include_initial=True, end_token=None):
+    def generate(self, context, max_tokens=9999999, include_initial=True, end_token=None, pad_initial=True):
         # Max tokens is a hack. No infinite range in Python stdlib I think :(
         if include_initial:
             yield from context
+        
+        # Very ugly!
+        if pad_initial:
+            context = self.pad_context(context)
 
         for i in range(max_tokens):
             if i >= max_tokens:
                 return
             next_token = self.predictor(context)
-            if next_token is end_token:
-                return
+            
+            if next_token is None: return
             yield next_token
+            if next_token == end_token: return
+
             context = (*context[1:], next_token)
             
 
@@ -86,16 +102,9 @@ class FrequencyTablePredictor:
 
     def train(self, xys):
         for context, target in xys:
-            context = tuple(context)
-            self.follower_table[context][target] += 1
-    
-    def generate(self, context):
-        context = tuple(context)
-        while True:
-            next_token = self(context)
-            if next_token is None:
-                return
-            yield next_token
-            context = (*context[1:], next_token)
+            self.train_one(context, target)
 
+    def train_one(self, context, target):
+        context = tuple(context)
+        self.follower_table[context][target] += 1
 
