@@ -2,8 +2,8 @@ import sys
 from collections import defaultdict, Counter
 import random
 from itertools import islice
-
 from slm_torch import *
+import numpy as np
 
 class LanguageModel:
     """A base class for language models"""
@@ -57,19 +57,23 @@ def get_ngrams(tokens, n):
 class FrequencyTablePredictor(LanguageModel):
     def __init__(self, context_length):
         self.context_length = context_length
-        self.follower_table = defaultdict(list)
+        self.follower_table = defaultdict(Counter)
     
     def __call__(self, context):
         context = tuple(context)
-        candidates = self.follower_table[context]
+        candidates = list(self.follower_table[context].items())
         if not candidates:
             return None
-        return random.choice(candidates)
+        
+        tokens, counts = zip(*candidates)
+        weights = np.array(counts, dtype=float)
+        weights /= np.sum(weights)
+        return np.random.choice(tokens, p=weights)
 
     def train(self, tokens):
         for *context, next_word in get_ngrams(tokens, self.context_length + 1):
             context = tuple(context)
-            self.follower_table[context].append(next_word)
+            self.follower_table[context][next_word] += 1
 
     def generate(self, context):
         # No inf range in python :(
