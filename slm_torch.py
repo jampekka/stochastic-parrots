@@ -27,14 +27,17 @@ class Gpt2Embedder:
 
 # TODO: Very slow and stupid
 class EmbeddingTablePredictor:
-    def __init__(self, context_length):
+    def __init__(self, embedder, context_length):
+        self.embedder = embedder
         self.context_length = context_length
         
         self.contexts = []
         self.followers = []
     
     def train(self, xys):
-        for context, target in xys:
+        for i, (context, target) in enumerate(xys):
+            print(i)
+            context = self.embedder(context)
             closest_i, diff = self.get_closest_context(context)
             if closest_i is None or not torch.isclose(diff, torch.tensor(0.0)):
                 self.contexts.append(context)
@@ -44,6 +47,7 @@ class EmbeddingTablePredictor:
             self.followers[closest_i][target] += 1
     
     def __call__(self, context):
+        context = self.embedder(context)
         closest_i, _ = self.get_closest_context(context)
         candidates = list(self.followers[closest_i].items())
         

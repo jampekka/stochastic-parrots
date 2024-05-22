@@ -5,11 +5,9 @@ from itertools import islice
 from slm_torch import *
 import numpy as np
 
-# TODO: Put the embedder into the predictor
 class LanguageModel:
-    def __init__(self, tokenizer, embedder, predictor):
+    def __init__(self, tokenizer, predictor):
         self.tokenizer = tokenizer
-        self.embedder = embedder
         self.predictor = predictor
 
     @property
@@ -19,29 +17,26 @@ class LanguageModel:
     def get_training_data(self, tokens):
         # TODO: Handle missing ends
         for *context, target in get_ngrams(tokens, self.predictor.context_length+1):
-            yield self.embedder(context), target
+            yield context, target
 
     def train(self, tokens):
         data = self.get_training_data(tokens)
         self.predictor.train(data)
     
-    def generate(self, context_tokens, max_tokens=9999999, include_initial=True, end_token=None):
+    def generate(self, context, max_tokens=9999999, include_initial=True, end_token=None):
         # Max tokens is a hack. No infinite range in Python stdlib I think :(
         if include_initial:
-            yield from context_tokens
+            yield from context
 
         for i in range(max_tokens):
             if i >= max_tokens:
                 return
-            context_embedding = self.embedder(context_tokens)
-            next_token = self.predictor(context_embedding)
+            next_token = self.predictor(context)
             if next_token is end_token:
                 return
             yield next_token
-            context_tokens = (*context_tokens[1:], next_token)
-            context_embedding = self.embedder(context_tokens)
+            context = (*context[1:], next_token)
             
-
 
 class WhitespaceTokenizer:
     def __call__(self, text):
