@@ -85,20 +85,29 @@ def get_ngrams(tokens, n):
         yield tokens[i:i+n]
 
 class FrequencyTablePredictor:
-    def __init__(self, context_length):
+    def __init__(self, context_length, *, bail_to_random=False):
         self.context_length = context_length
         self.follower_table = defaultdict(Counter)
+        self.bail_to_random = bail_to_random
+        self.sample_most_likely = False
     
     def __call__(self, context):
         context = tuple(context)
-        candidates = list(self.follower_table[context].items())
+
+        candidates = self.follower_table.get(context, None)
         if not candidates:
-            return None
-        
-        tokens, counts = zip(*candidates)
+            if self.bail_to_random:
+                return random.choice(list(self.follower_table.keys()))[-1]
+            else:
+                return None
+
+        tokens, counts = zip(*candidates.items())
         weights = np.array(counts, dtype=float)
         weights /= np.sum(weights)
-        return np.random.choice(tokens, p=weights)
+        if not self.sample_most_likely:
+            return np.random.choice(tokens, p=weights)
+        else:
+            return tokens[np.argmax(weights)]
 
     def train(self, xys):
         for context, target in xys:

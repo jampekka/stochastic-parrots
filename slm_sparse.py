@@ -1,6 +1,7 @@
 import sparse
 import numpy as np
 
+# TODO: This is actually extremely slow!
 class FrequencyTablePredictor:
     def __init__(self, context_length, vocabulary_size):
         self.context_length = context_length
