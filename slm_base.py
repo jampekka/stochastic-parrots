@@ -108,3 +108,4 @@ class FrequencyTablePredictor:
         context = tuple(context)
         self.follower_table[context][target] += 1
 
+
