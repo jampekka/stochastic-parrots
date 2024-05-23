@@ -3,7 +3,7 @@ from transformers import AutoTokenizer, AutoModel
 # TODO: Try to use torch-only
 import numpy as np
 from collections import Counter
-from slm import *
+from slm_base import *
 
 
 class Gpt2Tokenizer:
