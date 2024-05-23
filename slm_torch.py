@@ -28,10 +28,15 @@ class Gpt2Embedder:
         embeddings = self.embedder(torch.tensor(tokens))
         return embeddings
 
-class EmbeddingTablePredictor(FrequencyTablePredictor):
-    def __init__(self, embedder, context_length):
-        super().__init__(context_length=context_length)
+class EmbeddingTablePredictor:
+    def __init__(self, embedder, context_length, predictor=None):
+        self.context_length = context_length
         self.embedder = embedder
+        
+        if predictor is None:
+            self.predictor = FrequencyTablePredictor(context_length)
+        else:
+            self.predictor = predictor
         
         # TODO: using dict here is extremely slow.
         # A sparse tensor could work? Or a proper k-NN if needed
@@ -41,14 +46,18 @@ class EmbeddingTablePredictor(FrequencyTablePredictor):
         context = tuple(context)
         if context not in self.context_embeddings:
             self.context_embeddings[context] = self.embedder(context)
-        super().train_one(context, target)
+        self.predictor.train_one(context, target)
+
+    def train(self, xys):
+        for context, target in xys:
+            self.train_one(context, target)
     
     def __call__(self, context):
-        output = super().__call__(context)
+        output = self.predictor.__call__(context)
         if output is not None: return output
         
         context, dist = self._get_closest_context(context)
-        return super().__call__(context)
+        return self.predictor.__call__(context)
 
     def _get_closest_context(self, context):
         # Oh lord, this is really slow!

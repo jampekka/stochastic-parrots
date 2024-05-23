@@ -11,7 +11,6 @@ class FrequencyTablePredictor:
         context = tuple(context)
         candidates = self.follower_table[context]
         
-        
         # TODO: Could be faster
         if not candidates.data: return None
         tokens, counts = zip(*((k[0], v) for k, v in candidates.data.items()))
