@@ -10,6 +10,8 @@ from datasets import Dataset
 import datasets
 datasets.utils.disable_progress_bar()
 
+import torch.nn.functional as F
+
 import torch
 
 
@@ -72,6 +74,10 @@ class NnLanguageModel(LanguageModel):
         out = self.model.forward(context.reshape(1, -1))[0][0][-1]
         return out
 
+    def next_token_probs(self, context):
+        logits = self.forward(context)
+        return F.softmax(logits).detach()
+
     def predictor(self, context):
         logits = self.forward(context)
         
@@ -95,9 +101,9 @@ class NnLanguageModel(LanguageModel):
     
     #def generate(self, context, max_tokens=9999999, include_initial=True, end_token=None, pad_initial=True):
     
-    def train(self, tokens):
+    def train(self, tokens, **kwargs):
         text = self.detokenize(tokens)
-        return self.train_text(text)
+        return self.train_text(text, **kwargs)
 
     def train_dataset(self, dataset, num_train_epochs=1):
 

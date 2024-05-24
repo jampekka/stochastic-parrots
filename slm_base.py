@@ -23,6 +23,9 @@ class LanguageModel:
     def train(self, tokens):
         data = self.get_training_data(tokens)
         self.predictor.train(data)
+    
+    def tokenize(self, text):
+        return self.tokenizer(text)
 
     def detokenize(self, tokens):
         return self.tokenizer.decode(tokens)
