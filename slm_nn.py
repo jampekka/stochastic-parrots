@@ -2,22 +2,23 @@ from slm_base import LanguageModel
 from slm_torch import HuggingfaceTokenizer
 import transformers
 # Too chatty!
-#transformers.logging.set_verbosity_error()
+transformers.logging.set_verbosity_error()
 
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from trl import SFTTrainer
-from datasets import Dataset
+from datasets import Dataset, load_dataset
 import datasets
 datasets.utils.disable_progress_bar()
 
 import torch.nn.functional as F
-
 import torch
 
+import datetime
+from pathlib import Path
+from glob import glob
 
 class NnLanguageModel(LanguageModel):
-    def __init__(self):
-        model_path = "EleutherAI/pythia-14m"
+    def __init__(self, model_path="EleutherAI/pythia-14m"):
         self.tok_ = AutoTokenizer.from_pretrained(model_path)
         self.tokenizer = HuggingfaceTokenizer(self.tok_)
 
@@ -78,11 +79,14 @@ class NnLanguageModel(LanguageModel):
         logits = self.forward(context)
         return F.softmax(logits).detach()
 
-    def predictor(self, context):
+    def predictor(self, context, do_sample=True):
         logits = self.forward(context)
         
-        
-        hit = torch.argmax(logits)
+        if do_sample:
+            probabilities = F.softmax(logits, dim=-1)
+            hit = torch.multinomial(probabilities, 1)[0]
+        else:
+            hit = torch.argmax(logits)
         assert hit < len(logits)
         return hit
 
@@ -105,8 +109,7 @@ class NnLanguageModel(LanguageModel):
         text = self.detokenize(tokens)
         return self.train_text(text, **kwargs)
 
-    def train_dataset(self, dataset, num_train_epochs=1):
-
+    def get_trainer(self, dataset, num_train_epochs=1, output_dir='outputs', verbose=False):
         # Not foolproof, but torch device manager is a major PITA
         device = torch.get_default_device()
         args = transformers.TrainingArguments(
@@ -122,12 +125,11 @@ class NnLanguageModel(LanguageModel):
             seed = 42,
             #fp16=True,
             #logging_steps=1,
-            output_dir='outputs',
+            output_dir=output_dir,
             # Seems to be impossible to force the training
             # to a specific device
             use_cpu=(device.type == "cpu"),
-            
-            disable_tqdm=True,
+            disable_tqdm=not verbose,
         )
 
         trainer = SFTTrainer(
@@ -139,9 +141,12 @@ class NnLanguageModel(LanguageModel):
             tokenizer=self.tok_,
         )
 
-        trainer.train()
+        return trainer
+
+    def train_dataset(self, *args, **kwargs):
+        self.get_trainer().train()
     
-    def generate(self, context, max_tokens=9999999, include_initial=True, end_token=None, pad_initial=True):
+    def generate(self, context, max_tokens=9999999, include_initial=True, end_token=None, pad_initial=True, do_sample=True):
         context = list(context)
         
         if include_initial:
@@ -151,10 +156,43 @@ class NnLanguageModel(LanguageModel):
             if i >= max_tokens:
                 return
             
-            next_token = self.predictor(context)
+            next_token = self.predictor(context, do_sample=do_sample)
             
             if next_token is None: return
             yield next_token
             if next_token == end_token: return
             context.append(next_token)
+
+def get_latest_model(model_dir=None):
+    from pathlib import Path
+
+    if model_dir is None:
+        return NnLanguageModel()
+    
+    models = glob(f"{model_dir}/model-*.checkpoint")
+    
+    if not models:
+        return NnLanguageModel()
+    
+    latest = sorted(models)[-1]
+    return NnLanguageModel(latest)
+
+def train(model_dir :str, *input_files :str, n_epochs :int=1):
+    assert input_files, "Plz give some input files as parameters"
+    dataset = load_dataset("text", data_files=input_files, sample_by='document', split="train")
+
+    model = get_latest_model(model_dir)
+    trainer = model.get_trainer(dataset, verbose=True)
+    trainer.train()
+    trainer.save_model(Path(model_dir)/("model-"+datetime.datetime.now().isoformat()+".checkpoint"))
+
+def blurb(model_dir :str, prompt :str, max_tokens:int =100):
+    model = get_latest_model(model_dir)
+    prompt = model.tokenize(prompt)
+    output = model.generate(prompt, max_tokens=max_tokens)
+    print(model.detokenize(output))
+
+if __name__ == '__main__':
+    import defopt
+    defopt.run([train, blurb])
 

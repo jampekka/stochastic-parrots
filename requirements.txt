@@ -1,3 +1,7 @@
 torch
 transformers
 scipy
+numpy
+trl
+defopt
+datasets
