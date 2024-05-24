@@ -18,7 +18,8 @@ from pathlib import Path
 from glob import glob
 
 class NnLanguageModel(LanguageModel):
-    def __init__(self, model_path="EleutherAI/pythia-14m"):
+    def __init__(self, model_path="EleutherAI/pythia-14m", model_name=None):
+        self.model_path = model_path
         self.tok_ = AutoTokenizer.from_pretrained(model_path)
         self.tokenizer = HuggingfaceTokenizer(self.tok_)
 
@@ -109,7 +110,7 @@ class NnLanguageModel(LanguageModel):
         text = self.detokenize(tokens)
         return self.train_text(text, **kwargs)
 
-    def get_trainer(self, dataset, num_train_epochs=1, output_dir='outputs', verbose=False):
+    def get_trainer(self, dataset=None, num_train_epochs=1, output_dir='outputs', verbose=False):
         # Not foolproof, but torch device manager is a major PITA
         device = torch.get_default_device()
         args = transformers.TrainingArguments(
@@ -169,22 +170,25 @@ def get_latest_model(model_dir=None):
     if model_dir is None:
         return NnLanguageModel()
     
+    model_name = "slm-"+Path(model_dir).name
     models = glob(f"{model_dir}/model-*.checkpoint")
     
     if not models:
-        return NnLanguageModel()
+        return NnLanguageModel(model_name=model_name)
     
     latest = sorted(models)[-1]
-    return NnLanguageModel(latest)
+
+    return NnLanguageModel(latest, model_name=model_name)
 
 def train(model_dir :str, *input_files :str, n_epochs :int=1):
     assert input_files, "Plz give some input files as parameters"
     dataset = load_dataset("text", data_files=input_files, sample_by='document', split="train")
 
     model = get_latest_model(model_dir)
+    newpath = Path(model_dir)/("model-"+datetime.datetime.now().isoformat()+".checkpoint")
     trainer = model.get_trainer(dataset, verbose=True)
     trainer.train()
-    trainer.save_model(Path(model_dir)/("model-"+datetime.datetime.now().isoformat()+".checkpoint"))
+    trainer.save_model(newpath)
 
 def blurb(model_dir :str, prompt :str, max_tokens:int =100):
     model = get_latest_model(model_dir)
@@ -192,7 +196,11 @@ def blurb(model_dir :str, prompt :str, max_tokens:int =100):
     output = model.generate(prompt, max_tokens=max_tokens)
     print(model.detokenize(output))
 
+def push(model_dir :str):
+    model = get_latest_model(model_dir)
+    model.get_trainer(output_dir=model_dir).push_to_hub()
+
 if __name__ == '__main__':
     import defopt
-    defopt.run([train, blurb])
+    defopt.run([train, blurb, push])
 
