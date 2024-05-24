@@ -64,9 +64,20 @@ def test_freq_table_bailout():
 def _test_nn_model():
     from slm_nn import NnLanguageModel
     model = NnLanguageModel()
-    print("Training")
-    model.train_text("Haista hanuri!", num_train_epochs=10)
-    print(model.generate_text("Haista", max_tokens=10))
+    
+    torch.set_printoptions(threshold=3)
+    wtf = model.predictor("Hello")
+    print(wtf)
+    exit()
+
+    text = open("./sample_data/72973401.txt").read()
+    model.train_text(text, num_train_epochs=20)
+    thread = "<comment>\n"
+    thread += model.generate_text(thread, max_tokens=200, temperature=2.0)
+    thread += model.generate_text(thread, max_tokens=200, temperature=2.0)
+    print(thread)
+    #print(model.generate_text("Mikä?", max_tokens=100))
+    #print(model.generate_text(model.tokenizer.bos_token + "Haista", max_tokens=100))
 
 if __name__ == "__main__":
     #test_fast_table()

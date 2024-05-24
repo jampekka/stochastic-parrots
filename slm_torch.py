@@ -5,6 +5,16 @@ import numpy as np
 from collections import Counter
 from slm_base import *
 
+class HuggingfaceTokenizer:
+    def __init__(self, tokenizer):
+        self.tokenizer = tokenizer
+    
+    def __call__(self, text):
+        tokens = self.tokenizer(text)
+        return tokens['input_ids']
+    
+    def decode(self, tokens):
+        return self.tokenizer.decode(list(tokens))
 
 class Gpt2Tokenizer:
     def __init__(self):
