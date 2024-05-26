@@ -181,7 +181,7 @@ def train(model_dir :str, *input_files :str, n_epochs :int=1):
     assert input_files, "Plz give some input files as parameters"
     dataset = load_dataset("text", data_files=input_files, sample_by='document', split="train")
 
-    model = get_latest_model(model_dir)
+    model = get_latest_model(model_dir, device=device)
     newpath = Path(model_dir)/("model-"+datetime.datetime.now().isoformat()+".checkpoint")
     trainer = model.get_trainer(dataset, verbose=True)
     trainer.train()
