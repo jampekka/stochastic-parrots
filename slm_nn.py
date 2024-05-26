@@ -18,8 +18,11 @@ from pathlib import Path
 from glob import glob
 
 class NnLanguageModel(LanguageModel):
-    def __init__(self, model_path="EleutherAI/pythia-14m", model_name=None):
+    def __init__(self, model_path="EleutherAI/pythia-14m", model_name=None, device=torch.device('cpu')):
         self.model_path = model_path
+        self.device = device
+
+
         self.tok_ = AutoTokenizer.from_pretrained(model_path)
         self.tokenizer = HuggingfaceTokenizer(self.tok_)
 
@@ -34,7 +37,7 @@ class NnLanguageModel(LanguageModel):
         self.tok_.add_special_tokens({'pad_token': '<|padding|>'})
         #self.tokenizer.pad_token = self.tokenizer.eos_token
         #print(self.tokenizer.pad_token_id)
-        self.model = AutoModelForCausalLM.from_pretrained(model_path)
+        self.model = AutoModelForCausalLM.from_pretrained(model_path).to(device)
         self._trainer = None
     
 
@@ -72,7 +75,7 @@ class NnLanguageModel(LanguageModel):
     def forward(self, context):
         if isinstance(context, str):
             context = self.tokenize(context)
-        context = torch.as_tensor(context)
+        context = torch.as_tensor(context).to(self.device)
         out = self.model.forward(context.reshape(1, -1))[0][0][-1]
         return out
 
@@ -112,7 +115,6 @@ class NnLanguageModel(LanguageModel):
 
     def get_trainer(self, dataset=None, num_train_epochs=1, output_dir='outputs', verbose=False):
         # Not foolproof, but torch device manager is a major PITA
-        device = torch.get_default_device()
         args = transformers.TrainingArguments(
             auto_find_batch_size=True,
             num_train_epochs=num_train_epochs,
@@ -120,7 +122,7 @@ class NnLanguageModel(LanguageModel):
             output_dir=output_dir,
             # Seems to be impossible to force the training
             # to a specific device
-            use_cpu=(device.type == "cpu"),
+            use_cpu=(self.device.type == "cpu"),
             disable_tqdm=not verbose,
         )
 
@@ -152,23 +154,30 @@ class NnLanguageModel(LanguageModel):
             if next_token == end_token: return
             context.append(next_token)
 
-def get_latest_model(model_dir=None):
-    from pathlib import Path
-
+def get_latest_model(model_dir=None, device=torch.device('cpu')):
     if model_dir is None:
-        return NnLanguageModel()
+        return NnLanguageModel(device=device)
     
     model_name = "slm-"+Path(model_dir).name
     models = glob(f"{model_dir}/model-*.checkpoint")
     
     if not models:
-        return NnLanguageModel(model_name=model_name)
+        return NnLanguageModel(model_name=model_name, device=device)
     
     latest = sorted(models)[-1]
 
-    return NnLanguageModel(latest, model_name=model_name)
+    return NnLanguageModel(latest, model_name=model_name, device=device)
 
 def train(model_dir :str, *input_files :str, n_epochs :int=1):
+    # Do the training with cuda if available.
+
+    # Try to use cuda if available. Pytorch makes this
+    # really hard.
+    if torch.cuda.is_available():
+        device = torch.device('cuda')
+    else:
+        device = torch.device('cpu')
+    
     assert input_files, "Plz give some input files as parameters"
     dataset = load_dataset("text", data_files=input_files, sample_by='document', split="train")
 
