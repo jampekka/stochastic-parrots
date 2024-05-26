@@ -78,7 +78,7 @@ class NnLanguageModel(LanguageModel):
 
     def next_token_probs(self, context):
         logits = self.forward(context)
-        return F.softmax(logits).detach()
+        return F.softmax(logits, dim=-1).detach()
 
     def predictor(self, context, do_sample=True):
         logits = self.forward(context)
@@ -115,17 +115,8 @@ class NnLanguageModel(LanguageModel):
         device = torch.get_default_device()
         args = transformers.TrainingArguments(
             auto_find_batch_size=True,
-            #gradient_accumulation_steps=4,
-            #warmup_steps=2,
-            #max_steps=100,
             num_train_epochs=num_train_epochs,
-            #learning_rate=2e-4,
-            #evaluation_strategy = 'steps',
-            #eval_accumulation_steps = 1, 
-            #eval_steps = 10,
             seed = 42,
-            #fp16=True,
-            #logging_steps=1,
             output_dir=output_dir,
             # Seems to be impossible to force the training
             # to a specific device
@@ -145,7 +136,7 @@ class NnLanguageModel(LanguageModel):
         return trainer
 
     def train_dataset(self, *args, **kwargs):
-        self.get_trainer().train()
+        self.get_trainer(*args, **kwargs).train()
     
     def generate(self, context, max_tokens=9999999, include_initial=True, end_token=None, pad_initial=True, do_sample=True):
         context = list(context)
@@ -154,9 +145,6 @@ class NnLanguageModel(LanguageModel):
             yield from context
         
         for i in range(max_tokens):
-            if i >= max_tokens:
-                return
-            
             next_token = self.predictor(context, do_sample=do_sample)
             
             if next_token is None: return
