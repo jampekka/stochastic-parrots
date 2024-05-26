@@ -183,7 +183,7 @@ def train(model_dir :str, *input_files :str, n_epochs :int=1):
 
     model = get_latest_model(model_dir, device=device)
     newpath = Path(model_dir)/("model-"+datetime.datetime.now().isoformat()+".checkpoint")
-    trainer = model.get_trainer(dataset, verbose=True)
+    trainer = model.get_trainer(dataset, verbose=True, num_train_epochs=n_epochs)
     trainer.train()
     trainer.save_model(newpath)
 
